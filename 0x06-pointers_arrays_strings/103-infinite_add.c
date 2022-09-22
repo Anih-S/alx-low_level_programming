@@ -4,7 +4,7 @@
  * _strlen - calculate string length
  * @a: string
  * Return: length of string
- */
+*/
 
 int _strlen(char *a)
 {
@@ -27,7 +27,7 @@ int _strlen(char *a)
  * @r: buffer to store result
  * @size_r: buffer size
  * Return: pointer to the result
- */
+*/
 
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
