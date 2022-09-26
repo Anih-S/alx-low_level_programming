@@ -46,7 +46,7 @@ Write a function that sets the value of a pointer to a char.
 
 Prototype: void set_string(char **s, char *to);
 
-Create a file that contains the password for the crackme2 executable.
+Create a file that contains the password for the **crackme2** executable.
 
 Your file should contain the exact password, no new line, no extra space
 ltrace, ldd, gdb and objdump can help
